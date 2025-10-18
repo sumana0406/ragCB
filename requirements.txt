@@ -1,0 +1,10 @@
+streamlit>=1.22
+langchain>=0.0.400    # or latest stable LangChain
+openai>=1.0.0
+pinecone-client>=2.2.0
+chromadb>=0.4.0
+tqdm
+python-dotenv
+PyPDF2
+pypdf
+sentence_transformers  # optional if you want local embeddings later
